@@ -1,0 +1,12 @@
+invite_limit,32087
+pvp_free_fights,32086
+idle_eternium_per,32085
+idle_gold_per,32084
+idle_exp_per,32083
+be_extra_tickets_cap,32081
+smelt_eternium_per,32080
+bank_gold_get_and_cap_per,32079
+max_academy_bonus_level,32078
+max_members,32077
+purchase_premium_per,32075
+be_skip_bosses,32082

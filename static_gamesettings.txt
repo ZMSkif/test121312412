@@ -1,0 +1,11 @@
+constants,{"tpl_item_reforge_currency":1803,"tpl_item_guild_currency":3915,"tpl_item_event_medal":3841,"tpl_item_honor_currency":1415,"tpl_renew_token_lesser":1116,"tpl_item_event_trophy":3839,"tpl_item_event_guild_trophy":10090,"tpl_item_leg_craft_token_id":27931,"tpl_item_journey_currency":1413,"tpl_renew_token_awaken":27929,"tpl_item_exp2_currency":11271,"tpl_item_event_map_ticket":3833,"tpl_item_event_map_ticket_autobattle":3835,"tpl_item_event_boss_tickets":{"normal":3837,"hard":3843,"guild":4559,"multi":26823},"tpl_autobattle_x10":10029,"tpl_item_pvp_ticket":1475,"tpl_crafting_extract_currency":386,"tpl_item_exp_currency":1061,"tpl_item_statue_shop_currency":19697,"tpl_divide_awaken_coeff":5,"tpl_item_dailytask_currency":1417,"tpl_renew_token_superior":1117}
+collections,{"unlock_currency":[898,1801]}
+vip_alternative_req,{"enable_autocalc_skip_level":7,"enable_battle_x10_level":3}
+tutorial,{"tpl_item_boost":3}
+custom_groups,{"gem_pass":1557}
+spins,{"normal":274,"ads":141}
+icons,{"tpl_gold":1835,"tpl_energy":1987,"tpl_guildfame":3919,"tpl_premium":1837,"tpl_topup_points":1839,"tpl_energy_stew":385,"tpl_craft_token_rare":1845,"tpl_craft_token_uncommon":1843,"tpl_craft_token_epic":1847,"tpl_heroexp":5119,"tpl_guildexp":3917,"tpl_vip_points":1841,"tpl_craft_token_legendary":1849}
+crafting_smelt,{"qualities_rewards":{"legendary":[10000,500,750],"common":[250,4,5],"uncommon":[750,20,10],"rare":[1500,40,50],"epic":[3000,100,100]},"items":[1061,11271,386]}
+journey_complete_reward_items,[[1413,3],[400,1],[10098,2]]
+pvp,{"asset_arena_location":3777}
+assets,{"quest_group_milestone_default_asset":31517,"asset_ch_boss_location":5127,"asset_tower_location":33559,"universal_chest":9953}
